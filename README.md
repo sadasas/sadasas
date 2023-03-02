@@ -1,6 +1,6 @@
 
 
-## Game Progammer
+## Game Progammer and React Developer
 itch.io : https://wahyusrp.itch.io/
 ### web portofolio https://web-porto-eight.vercel.app/ (under construction)
 
